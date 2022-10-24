@@ -5,9 +5,7 @@
     "background": "#050505"
   },
   "contacts_stripe": {
-    "pages": [
-      {}
-    ],
+    "pages": [],
     "phone_wpp": false,
     "socials": true
   },
