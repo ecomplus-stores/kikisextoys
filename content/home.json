@@ -29,10 +29,6 @@
       "markdown": "![](/img/uploads/banner-loja.afdesign-1-.png)"
     },
     {
-      "type": "info-bar",
-      "enabled": false
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null,
