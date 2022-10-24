@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.0a0570024f5a800dc32e65357096d1fd.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.5365ca46f74ae7f424427f596ca4ebe0.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.2fa8cec85c5d0930fda7a4a0582436fe.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.e822b9eaf9ec9ab8853806fa79682c5c.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.81ef775cebf5857f36001b7917f03a53.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Kiki Sextoys",
+  "short_name": "Kiki Sextoys",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Sexshop situada em João Pessoa\nEntrega discreta para todo o Brasil!",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
