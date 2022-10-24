@@ -1,7 +1,8 @@
 {
   "store_id": 11686,
   "name": "kikisextoys",
-  "domain": "kikisextoys.netlify.app",
+  "domain": "www.kikisextoys.com",
+  "repository": "ecomplus-stores/kikisextoys",
   "short_name": "kikisextoys",
   "description": "kikisextoys",
   "primary_color": "#222831",
