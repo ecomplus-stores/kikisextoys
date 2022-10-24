@@ -5,11 +5,11 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 5x sem juros no site ou em até 12x sem juros com pagamento na retirada"
+    "text": "Parcele sem juros"
   },
   "exchange": {
     "show": false,
-    "text": ""
+    "text": "Receba no mesmo dia"
   },
   "promo": {
     "show": false,
