@@ -34,8 +34,8 @@
       "collection_id": null,
       "sort": "offers",
       "title": "",
-      "headless": false,
-      "limit": 12,
+      "headless": true,
+      "limit": 24,
       "page": 1
     }
   ]
