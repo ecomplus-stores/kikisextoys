@@ -6,7 +6,7 @@
   },
   "contacts_stripe": {
     "pages": [],
-    "phone_wpp": false,
+    "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
@@ -16,6 +16,6 @@
   },
   "desktop_megamenu": false,
   "search_input": true,
-  "alphabetical_order_submenu": false,
+  "alphabetical_order_submenu": true,
   "full_width_submenu": false
 }
