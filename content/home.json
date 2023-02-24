@@ -33,6 +33,13 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
+      "page": 1,
+      "collection_id": "616883a528ace502aea647c2:categories:PROMOÇÕES:/promocoes"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
       "page": 1
     }
   ]
