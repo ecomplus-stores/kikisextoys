@@ -26,16 +26,23 @@
     },
     {
       "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64089dc34bd2e929c1912587:categories:SOB ENCOMENDA:/sob-encomenda",
+      "title": "SOB ENCOMENDA"
+    },
+    {
+      "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
       "collection_id": "616883a528ace502aea647c2:categories:PROMOÇÕES:/promocoes"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "views"
     }
   ]
 }
