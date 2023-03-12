@@ -45,7 +45,8 @@
       "limit": 12,
       "page": 1,
       "sort": "news",
-      "title": "RECÉM CHEGADOS"
+      "title": "RECÉM CHEGADOS",
+      "autoplay": 1000
     },
     {
       "type": "dynamic-showcase",
