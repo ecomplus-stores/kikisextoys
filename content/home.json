@@ -46,7 +46,7 @@
       "page": 1,
       "sort": "news",
       "title": "RECÉM CHEGADOS",
-      "autoplay": 3500
+      "autoplay": 5000
     },
     {
       "type": "dynamic-showcase",
