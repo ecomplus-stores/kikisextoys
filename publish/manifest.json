@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.a30c685e94e4c631f1f49966f0dd7c34.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.307c8373ff8a731b7813b5f1124e76b2.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.9de2411af3fed320297e5c77d1e51eb5.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.071f7ae2250c2bd4d7b12dc0f3642bf0.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.8584fafa263dffebcbb2f64b22e98f25.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Kiki Sextoys",
+  "short_name": "Kiki Sextoys",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Entrega discreta para todo o Brasil",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
